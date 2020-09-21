@@ -12,7 +12,7 @@ Ao captar as imagens, realizam-se 3 operações:
   - Achar os cantos;
   ![Cantos](/find_exit_opencv_ros/paredes.png  "paredes")
   - Binarizar a imagem, dentro das paredes fica preto e onde não tem parede fica branco;
-  ![monocromatico](/find_exit_opencv_ros/parede_monocromatica.png  "parede_monocromatica")
+  ![monocromatico](https://github.com/marcos-moura97/find_exit_opencv_ros/blob/master/parede_monocromatica.png "parede_monocromatica")
   - Focalizar o branco em 3/4 da tela, o que evita que o céu, por exemplo, entre no equacionamento;
   ![foco](/find_exit_opencv_ros/seguir_linha.png  "rvi2")
 
