@@ -5,7 +5,7 @@
 Este projeto simula um robô que usa **[opencv](https://pypi.org/project/opencv-python/)** para achar a saída de uma sala. O robô usado, o [P3DX, disponível no ROS](http://wiki.ros.org/Robots/AMR_Pioneer_Compatible), tem uma câmera e um escaneador a laser. 
 Neste projeto, o robô gira em torno do eixo Z até achar a porta, então segue o caminho até lá.
 
-![SLAM no ROS](https://github.com/marcos-moura97/find_exit_opencv_ros/vista_cima.png  "vista_cima")
+![SLAM no ROS](vista_cima.png  "vista_cima")
 
 Ao captar as imagens, realizam-se 3 operações:
 
